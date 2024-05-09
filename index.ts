@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import inquirer from "inquirer";
 
 let randomNum: number = Math.floor(1000 + Math.random() * 9000);
